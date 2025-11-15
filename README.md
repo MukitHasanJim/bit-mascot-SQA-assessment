@@ -1,5 +1,3 @@
-# bit-mascot-SQA-assessment
-Playwright automation test for Bit Mascot SQA Engineer Assessment
 # Bit Mascot SQA Engineer Assessment
 
 This repository contains the Playwright automation test for the **Bit Mascot SQA Engineer Online Assessment**.
